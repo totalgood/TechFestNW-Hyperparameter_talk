@@ -1,0 +1,8 @@
+
+.reveal {
+      overflow-x: hidden;
+      overflow-y: hidden;
+
+  }
+
+div.text_cell_render{overflow-y:hidden;overflow-x:hidden} 
